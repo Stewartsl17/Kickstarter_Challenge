@@ -7,6 +7,10 @@ Performing data analysis on Kickstarter data to understand outcomes based on dat
 
 ### Analysis 
 
+#### Analysis Based On Launch Date 
+
+#### Analysis Based on Goals
+
 
 ### Challenges
 
