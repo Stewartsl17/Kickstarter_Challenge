@@ -21,7 +21,7 @@ Using the graph, we can see the least amount of successful campaigns occur in De
 
 ### Analysis Based on Goals
 
-o	In order to observe differences in funding goals, we created a chart which looked at the following variables: goal amount, number of successful campaigns, number of failed campaigns, number of canceled campaigns, total projects, percentage successful, percentage failed, and percentage canceled. For goal amounts, we split the goal amounts into 12 distinct increments ranging from less than $1,000 to $50,000 or greater. The analysis can been in the chart below labeled “Outcomes Based on Goals” 
+In order to observe differences in funding goals, we created a chart which looked at the following variables: goal amount, number of successful campaigns, number of failed campaigns, number of canceled campaigns, total projects, percentage successful, percentage failed, and percentage canceled. For goal amounts, we split the goal amounts into 12 distinct increments ranging from less than $1,000 to $50,000 or greater. The analysis can been in the chart below labeled “Outcomes Based on Goals” 
 
 ![](https://github.com/Stewartsl17/Kickstarter_Challenge/blob/master/resources/Outcomes%20vs.%20Goals.png)
 
