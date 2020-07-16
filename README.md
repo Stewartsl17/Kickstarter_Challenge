@@ -1,15 +1,17 @@
 # Kickstarter_Challenge
-Performing data analysis on Kickstarter data to understand outcomes based on date and goals 
 
 ## Overview of Project 
 
+Our client, Louise, has recently completed her Kickstarter campaign for the play, Fever, which she will be putting on in the UK. She asked us to looking into relevant Kickstarter data in order to glean insights from the data and advise her of the following information: 
+
+*Best approaches to successfully raising money for Kickstarter campaigns 
+*How different campaigns fared in comparison to their launch dates and funding goals in comparison to her campaign
+
 ## Analysis and Challenges
 
-### Analysis 
+### Analysis Based On Launch Date 
 
-#### Analysis Based On Launch Date 
-
-#### Analysis Based on Goals
+### Analysis Based on Goals
 
 ### Challenges
 
