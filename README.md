@@ -27,9 +27,11 @@ In order to observe differences in funding goals, we created a chart which looke
 
 On the x-axis, we have the goal amount increments ranging from less than $1,000 to $50,000 or greater. On the y-axis, we have percentage buckets from 0 to 100%. 
 
-Using this graph we can see that the most successful campaigns occur for less than $5000. This is understandable as the cost is still relatively low. Another interesting section is between $35,000 and $49,9999. 
+Using this graph we can see that the most successful campaigns occur for less than $5000. This is understandable as the cost is still relatively low. Another interesting section is between $35,000 and $49,999. 
 
 ### Challenges
+
+Overall, there were not many issues with the data set that we used to conduct our analysis for Louise. The first challenge of the data was that some projects couldn't be initally utilizd because of the lack of backers for some campaigns despite every campaign having a goal. This led to the data set having errors, which we had to convert to zeros. The second challenge that we encountered while doing analysis was having to do multiple transfomations for different columns of data. In order to specifically look at plays, we had to seperate the parent category (Theater) from the subcategory (plays). Furthermore, in order to look at the correct dates of campaign launches, which we intitally formatted as Unix timestamps, we had to convert them into human-readable dates. Also, to inspect look further into dates grouped into months, we had to convert launched dates into months using the month formula. 
 
 ## Conclusions 
 
