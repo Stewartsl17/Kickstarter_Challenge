@@ -13,7 +13,7 @@ Our client, Louise, has recently completed her Kickstarter campaign for the play
 
 In order to examine the best times of year to launch a theater-related Kickstarter campaign, we created a pivot table to look at campaign outcomes (successful, failed, and canceled) versus month from 2011 to 2017 among the Parent Category of theater. This analysis can been seen in the chart below labeled “Theater Outcomes Based on Launch Date”: 
 
-![](pathway)
+![](https://github.com/Stewartsl17/Kickstarter_Challenge/blob/master/resources/Theater%20Outcomes%20vs.%20Launch.png)
 
 On the x-axis, we have the each month of the year (Jan to Dec). On the y-axis, we have number of theater campaigns. We also have three lines referring to the three types of campaigns analyzed: orange (successful), yellow (failed), and green (canceled).
 
@@ -23,7 +23,7 @@ Using the graph, we can see the least amount of successful campaigns occur in De
 
 o	In order to observe differences in funding goals, we created a chart which looked at the following variables: goal amount, number of successful campaigns, number of failed campaigns, number of canceled campaigns, total projects, percentage successful, percentage failed, and percentage canceled. For goal amounts, we split the goal amounts into 12 distinct increments ranging from less than $1,000 to $50,000 or greater. The analysis can been in the chart below labeled “Outcomes Based on Goals” 
 
-![](pathway)
+![](https://github.com/Stewartsl17/Kickstarter_Challenge/blob/master/resources/Outcomes%20vs.%20Goals.png)
 
 On the x-axis, we have the goal amount increments ranging from less than $1,000 to $50,000 or greater. On the y-axis, we have percentage buckets from 0 to 100%. 
 
