@@ -11,7 +11,14 @@ Performing data analysis on Kickstarter data to understand outcomes based on dat
 
 #### Analysis Based on Goals
 
-
 ### Challenges
 
+## Conclusions 
 
+### Conclusions based on Launch Data 
+
+### Conclusions based on Goals 
+
+## Limitations of Dataset
+
+## Other possible tables or graphs 
