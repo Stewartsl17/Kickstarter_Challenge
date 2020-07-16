@@ -4,12 +4,20 @@
 
 Our client, Louise, has recently completed her Kickstarter campaign for the play, Fever, which she will be putting on in the UK. She asked us to looking into relevant Kickstarter data in order to glean insights from the data and advise her of the following information: 
 
-  *Best approaches to successfully raising money for Kickstarter campaigns 
+  *Best approaches to successfully raising money for Kickstarter campaigns <br />
   *How different campaigns fared in comparison to their launch dates and funding goals in comparison to her campaign
 
 ## Analysis and Challenges
 
 ### Analysis Based On Launch Date 
+
+In order to examine the best times of year to launch a theater-related Kickstarter campaign, we created a pivot table to look at campaign outcomes (successful, failed, and canceled) versus month from 2011 to 2017 among the Parent Category of theater. This analysis can been seen in the chart below labeled “Theater Outcomes Based on Launch Date”: 
+
+![](pathway)
+
+On the x-axis, we have the each month of the year (Jan to Dec). On the y-axis, we have number of theater campaigns. We also have three lines referring to the three types of campaigns analyzed: orange (successful), yellow (failed), and green (canceled).
+
+Using the graph, we can see the least amount of successful campaigns occur in December. On the other hand, we can note that February and, to a far larger degree, May, are the points of most success for theater campaigns.  
 
 ### Analysis Based on Goals
 
