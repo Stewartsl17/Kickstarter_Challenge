@@ -21,6 +21,14 @@ Using the graph, we can see the least amount of successful campaigns occur in De
 
 ### Analysis Based on Goals
 
+o	In order to observe differences in funding goals, we created a chart which looked at the following variables: goal amount, number of successful campaigns, number of failed campaigns, number of canceled campaigns, total projects, percentage successful, percentage failed, and percentage canceled. For goal amounts, we split the goal amounts into 12 distinct increments ranging from less than $1,000 to $50,000 or greater. The analysis can been in the chart below labeled “Outcomes Based on Goals” 
+
+![](pathway)
+
+On the x-axis, we have the goal amount increments ranging from less than $1,000 to $50,000 or greater. On the y-axis, we have percentage buckets from 0 to 100%. 
+
+Using this graph we can see that the most successful campaigns occur for less than $5000. This is understandable as the cost is still relatively low. Another interesting section is between $35,000 and $49,9999. 
+
 ### Challenges
 
 ## Conclusions 
