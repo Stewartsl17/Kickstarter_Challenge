@@ -2,7 +2,7 @@
 
 ## Overview of Project 
 
-Our client, Louise, has recently completed her ![Kickstarter](https://github.com/Stewartsl17/Kickstarter_Challenge/blob/master/Kickstarter%20Challenge.xlsx.zip) campaign for the play, Fever, which she will be putting on in the UK. She asked us to looking into relevant Kickstarter data in order to glean insights from the data and advise her of the following information: 
+Our client, Louise, has recently completed her [Kickstarter](https://github.com/Stewartsl17/Kickstarter_Challenge/blob/master/Kickstarter%20Challenge.xlsx.zip) campaign for the play, Fever, which she will be putting on in the UK. She asked us to looking into relevant Kickstarter data in order to glean insights from the data and advise her of the following information: 
 
   *Best approaches to successfully raising money for Kickstarter campaigns <br />
   *How different campaigns fared in comparison to their launch dates and funding goals in comparison to her campaign
