@@ -31,14 +31,26 @@ Using this graph we can see that the most successful campaigns occur for less th
 
 ### Challenges
 
-Overall, there were not many issues with the data set that we used to conduct our analysis for Louise. The first challenge of the data was that some projects couldn't be initally utilizd because of the lack of backers for some campaigns despite every campaign having a goal. This led to the data set having errors, which we had to convert to zeros. The second challenge that we encountered while doing analysis was having to do multiple transfomations for different columns of data. In order to specifically look at plays, we had to seperate the parent category (Theater) from the subcategory (plays). Furthermore, in order to look at the correct dates of campaign launches, which we intitally formatted as Unix timestamps, we had to convert them into human-readable dates. Also, to inspect look further into dates grouped into months, we had to convert launched dates into months using the month formula. 
-
-## Conclusions 
+Overall, there were not many issues with the data set that we used to conduct our analysis for Louise. The first challenge of the data was that some projects couldn't be initally utilized because of the lack of backers for some campaigns despite every campaign having a goal. This led to the data set having errors, which we had to convert to zeros. The second challenge that we encountered while doing analysis was having to do multiple transfomations for different columns of data. In order to specifically look at plays, we had to seperate the parent category (Theater) from the subcategory (plays). Furthermore, in order to look at the correct dates of campaign launches, which we intitally formatted as Unix timestamps, we had to convert them into human-readable dates. Also, to inspect look further into dates grouped into months, we had to convert launched dates into months using the month formula. 
 
 ### Conclusions based on Launch Data 
 
+Based on the launch date data that was analyzed, we can conclude the following: 
+
+* Starting a Kickstarter campaign for theater-related events in May has the widest margin of success, followed by February. 
+* Conversely, starting a campaign in Decemeber has the highest chance of failure. 
+
 ### Conclusions based on Goals 
 
+Based on the goals data that was analyzed, we can conclude the following: 
+
+* Starting a Kickstarter campaign for plays with the goal amount of less than $5000 will lead to the most successful outcomes followed by between $35,000 and $49,999 to a lesser degree. Overall, Louise should bring her goal amount down to the optimal range of less than $5000 if she wants to have the highest chance of success in future campaigns. 
+
 ## Limitations of Dataset
+
+Overall, the dataset was fairly complete but there were a couple limitations that could provide insight for future analysis: 
+
+* One limitation of the dataset is lacked on variables to analyze in terms of impact on success and failure. There was no way to look into amount of outside work (promotions and other awareness-related work) that led to successful, failed, or canceled campaigns. 
+* Moreover, all of the data was in US currency so we did not look into the changes between different currencies. This could provide some interesting insights as well as could change when looking individual factors by countries. 
 
 ## Other possible tables or graphs 
